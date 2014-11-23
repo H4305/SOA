@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900.0" height="740.0" viewBox="170.0 70.0 900.0 740.0" version="1.1">
+<rect x="170.0" y="70.0" width="900.0" height="740.0" fill="rgb(255,255,255)"/>
+<g id="seq1100974896">
+<polygon id="s1100974896" points="200.0,100.0 300.0,100.0 300.0,160.0 200.0,160.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1098031544" d="M 250.0,160.0 250.0,780.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)" stroke-dasharray="7.0 7.0"/>
+</g>
+<g id="t1100974896">
+<text x="233.0" y="133.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">USER </text>
+</g>
+<g id="seq1100400896">
+<polygon id="s1100400896" points="580.0,100.0 680.0,100.0 680.0,160.0 580.0,160.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101256072" d="M 630.0,160.0 630.0,760.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)" stroke-dasharray="7.0 7.0"/>
+</g>
+<g id="t1100400896">
+<text x="617.5" y="133.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">IHM </text>
+</g>
+<g id="seq1101123856">
+<polygon id="s1101123856" points="940.0,100.0 1040.0,100.0 1040.0,160.0 940.0,160.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101125144" d="M 990.0,160.0 990.0,780.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)" stroke-dasharray="7.0 7.0"/>
+</g>
+<g id="t1101123856">
+<text x="967.5" y="133.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">System </text>
+</g>
+<g id="la1101807408">
+<path id="s1101807408" d="M 250.0,200.0 630.0,200.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1104181360" d="M 620.8219,207.7306 630.0,200.0 620.8219,192.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1101807408">
+<text x="387.0" y="190.49998" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Rechercher client </text>
+</g>
+<g id="la1099747880">
+<path id="s1099747880" d="M 630.0,240.0 990.0,240.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1105152960" d="M 980.8219,247.7306 990.0,240.0 980.8219,232.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1099747880">
+<text x="660.5" y="211.49998" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">SM1 rechercherClient(dénominationClient) : List </text>
+<text x="785.5" y="230.49998" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">&lt;Client&gt; </text>
+</g>
+<g id="la1103725456">
+<path id="s1103725456" d="M 250.0,260.0 630.0,260.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1104178168" d="M 620.8219,267.73062 630.0,260.0 620.8219,252.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1103725456">
+<text x="382.0" y="250.49997" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">seloolionner Client </text>
+</g>
+<g id="la1101397000">
+<path id="s1101397000" d="M 250.0,320.0 630.0,320.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1104157024" d="M 620.8219,327.73062 630.0,320.0 620.8219,312.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1101397000">
+<text x="394.5" y="310.49997" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">identifier client </text>
+</g>
+<g id="la1101219504">
+<path id="s1101219504" d="M 630.0,340.0 990.0,340.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1104152584" d="M 980.8219,347.73062 990.0,340.0 980.8219,332.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1101219504">
+<text x="697.0" y="330.49997" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">SM2 IdentifierClient(idClient) : Client </text>
+</g>
+<g id="la1103826344">
+<path id="s1103826344" d="M 250.0,380.0 630.0,380.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1104151456" d="M 620.8219,387.73062 630.0,380.0 620.8219,372.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1103826344">
+<text x="369.0" y="370.49997" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Modifier Denomination </text>
+</g>
+<g id="la1102701976">
+<path id="s1102701976" d="M 630.0,400.0 990.0,400.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1105036392" d="M 980.8219,407.73062 990.0,400.0 980.8219,392.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1102701976">
+<text x="728.5" y="390.49997" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">SM3 modifierClient(client) </text>
+</g>
+<g id="la1100646328">
+<path id="s1100646328" d="M 250.0,440.0 630.0,440.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1103973264" d="M 620.8219,447.73062 630.0,440.0 620.8219,432.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1100646328">
+<text x="386.0" y="430.49997" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Consulter Produit </text>
+</g>
+<g id="la1100830744">
+<path id="s1100830744" d="M 630.0,460.0 990.0,460.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1100543352" d="M 980.8219,467.73062 990.0,460.0 980.8219,452.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1100830744">
+<text x="654.5" y="431.49997" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">SM4 getProduits(idClient) : List&lt;Compte, Produit&gt;, </text>
+<text x="792.5" y="450.49997" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Client </text>
+</g>
+<g id="la1101664920">
+<path id="s1101664920" d="M 250.0,500.0 630.0,500.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1103743992" d="M 620.8219,507.73062 630.0,500.0 620.8219,492.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1101664920">
+<text x="355.0" y="490.49997" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Modifier Produit concurrent </text>
+</g>
+<g id="la1102912704">
+<path id="s1102912704" d="M 630.0,540.0 990.0,540.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1103743408" d="M 980.8219,547.7306 990.0,540.0 980.8219,532.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1102912704">
+<text x="792.5" y="511.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">SM5 : </text>
+<text x="626.0" y="530.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">modifierProduitConcurrent(descriptionProduitConcurrents) </text>
+</g>
+<g id="la1102708480">
+<path id="s1102708480" d="M 250.0,580.0 630.0,580.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1103617024" d="M 620.8219,587.7306 630.0,580.0 620.8219,572.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1102708480">
+<text x="367.5" y="570.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Afficher liste Personnes </text>
+</g>
+<g id="la1103359800">
+<path id="s1103359800" d="M 630.0,600.0 990.0,600.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1102836176" d="M 980.8219,607.7306 990.0,600.0 980.8219,592.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1103359800">
+<text x="641.5" y="590.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">SM6 afficherPersonneClient(idClient) : List&lt;Personne&gt; </text>
+</g>
+<g id="la1103363616">
+<path id="s1103363616" d="M 250.0,640.0 630.0,640.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1106435800" d="M 620.8219,647.7306 630.0,640.0 620.8219,632.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1103363616">
+<text x="358.0" y="630.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Ajouter Personne au Client </text>
+</g>
+<g id="la1104187800">
+<path id="s1104187800" d="M 630.0,660.0 990.0,660.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1106549536" d="M 980.8219,667.7306 990.0,660.0 980.8219,652.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1104187800">
+<text x="663.5" y="650.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">SM7 ajouterPersonneClient(idClient, Personne) </text>
+</g>
+<g id="la1103958408">
+<path id="s1103958408" d="M 250.0,700.0 630.0,700.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1103276616" d="M 620.8219,707.7306 630.0,700.0 620.8219,692.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1103958408">
+<text x="344.0" y="690.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Afficher informations Personne </text>
+</g>
+<g id="la1101778576">
+<path id="s1101778576" d="M 630.0,720.0 990.0,720.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1103264728" d="M 980.8219,727.7306 990.0,720.0 980.8219,712.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1101778576">
+<text x="701.0" y="710.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">SM8 afficherInfosPersonne(idPers) </text>
+</g>
+</svg>

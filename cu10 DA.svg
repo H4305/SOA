@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280.0" height="682.0" viewBox="-170.0 70.0 1280.0 682.0" version="1.1">
+<rect x="-170.0" y="70.0" width="1280.0" height="682.0" fill="rgb(235,247,248)"/>
+<ellipse id="s1104991992" cx="590.0" cy="130.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1104991992">
+<text x="563.0" y="124.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Identifier </text>
+<text x="572.5" y="143.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Client </text>
+</g>
+<ellipse id="s1106568488" cx="19.99997" cy="410.0" rx="60.0" ry="30.000002" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1106568488">
+<text x="-9.5000305" y="394.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="-6.0000305" y="413.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">comptes </text>
+<text x="-6.5000305" y="432.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">banques </text>
+</g>
+<ellipse id="s1105108152" cx="250.00002" cy="410.0" rx="70.0" ry="30.000002" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1105108152">
+<text x="220.50002" y="394.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="227.50002" y="413.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">compte </text>
+<text x="217.00002" y="432.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">concurrent </text>
+</g>
+<ellipse id="s1100717328" cx="250.00002" cy="530.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1100717328">
+<text x="224.50002" y="533.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Modifier </text>
+</g>
+<ellipse id="s1101155064" cx="-70.000015" cy="530.0" rx="70.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1101155064">
+<text x="-98.500015" y="514.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">consulter </text>
+<text x="-100.000015" y="533.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">détails du </text>
+<text x="-92.500015" y="552.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">compte </text>
+</g>
+<ellipse id="s1105490336" cx="79.99988" cy="530.0" rx="60.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1105490336">
+<text x="50.499878" y="524.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="38.499878" y="543.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">détail Produit </text>
+</g>
+<ellipse id="s1105494872" cx="400.0" cy="419.99985" rx="60.0" ry="40.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1105494872">
+<text x="370.5" y="404.49985" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="387.5" y="423.49985" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">liste </text>
+<text x="367.5" y="442.49985" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Personnes </text>
+</g>
+<ellipse id="s1106064872" cx="590.0" cy="420.0" rx="90.0" ry="40.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1106064872">
+<text x="560.5" y="404.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="554.0" y="423.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">information </text>
+<text x="541.0" y="442.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">cotisation client </text>
+</g>
+<ellipse id="s1102169992" cx="490.0" cy="270.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1102169992">
+<text x="460.5" y="264.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="474.0" y="283.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Bilan </text>
+</g>
+<ellipse id="s1103263880" cx="109.99989" cy="250.00003" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1103263880">
+<text x="80.49989" y="244.00003" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="87.99989" y="263.00003" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">produit </text>
+</g>
+<ellipse id="s1102724456" cx="1010.0" cy="270.0" rx="70.0" ry="40.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1102724456">
+<text x="980.5" y="254.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="961.5" y="273.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">relation banque </text>
+<text x="993.5" y="292.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">client </text>
+</g>
+<ellipse id="s1103378760" cx="770.0" cy="270.0" rx="90.0" ry="40.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1103378760">
+<text x="713.5" y="254.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter numéro, </text>
+<text x="725.5" y="273.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">dénomination, </text>
+<text x="721.5" y="292.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">adresse postale </text>
+</g>
+<ellipse id="s1105380856" cx="770.0" cy="410.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1105380856">
+<text x="744.5" y="413.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Modifier </text>
+</g>
+<ellipse id="s1102316536" cx="550.0" cy="530.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1102316536">
+<text x="528.0" y="524.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Ajouter </text>
+<text x="521.0" y="543.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Personne </text>
+</g>
+<ellipse id="s1102439624" cx="400.0" cy="530.0" rx="60.0" ry="40.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1102439624">
+<text x="370.5" y="514.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="385.0" y="533.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">infos </text>
+<text x="365.0" y="552.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">spécifiques </text>
+</g>
+<ellipse id="s1106068160" cx="400.0" cy="690.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1106068160">
+<text x="374.5" y="693.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Modifier </text>
+</g>
+<ellipse id="s1103651256" cx="630.0" cy="690.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1103651256">
+<text x="600.5" y="684.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="605.5" y="703.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Risques </text>
+</g>
+<ellipse id="s1106540664" cx="750.0" cy="690.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1106540664">
+<text x="720.5" y="684.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="723.5" y="703.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">potentiel </text>
+</g>
+<ellipse id="s1104721976" cx="890.0" cy="690.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1104721976">
+<text x="860.5" y="684.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Consulter </text>
+<text x="855.5" y="703.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Réciprocité </text>
+</g>
+<g id="la1102644232">
+<path id="s1102644232" d="M 250.00002,440.0 250.00002,500.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1102437208">
+<path id="s1102437208" d="M -22.426437,431.2132 -70.000015,500.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1102729096">
+<path id="s1102729096" d="M 42.960976,437.7164 79.99988,500.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1106898128">
+<path id="s1106898128" d="M 129.13406,277.71643 200.50253,388.7868 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1100516624">
+<path id="s1100516624" d="M 770.0,310.0 770.0,380.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1106894840">
+<path id="s1106894840" d="M 590.0,160.0 490.0,240.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1104934600">
+<path id="s1104934600" d="M 609.13416,157.71638 686.8508,254.69267 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1106910800">
+<path id="s1106910800" d="M 90.865715,277.71643 42.960983,382.28363 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1106834008">
+<path id="s1106834008" d="M 543.806,141.4805 129.13408,222.28365 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1101568712">
+<path id="s1101568712" d="M 636.194,141.4805 960.5025,241.71573 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1105694944">
+<path id="s1105694944" d="M 470.8658,297.71637 422.96103,383.04468 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1102776920">
+<path id="s1102776920" d="M 509.13416,297.71637 555.5585,383.04483 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1106856376">
+<path id="s1106856376" d="M 422.961,456.95502 514.64465,508.7868 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1105451736">
+<path id="s1105451736" d="M 400.0,459.99985 400.0,490.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1106787640">
+<path id="s1106787640" d="M 400.0,570.0 400.0,660.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1107645936">
+<path id="s1107645936" d=" M673.1492,435.30734  C713.1714,463.85095 695.27106,615.03827 649.13416,662.2836 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1105297640">
+<path id="s1105297640" d=" M673.1492,435.30734  C726.0548,459.58945 732.35486,582.60223 750.0,660.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="la1104389088">
+<path id="s1104389088" d=" M673.1492,435.30734  C737.42365,434.348 834.6166,546.1344 870.86584,662.2836 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+</svg>

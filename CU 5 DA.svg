@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="440.0" height="530.0" viewBox="290.0 -10.0 440.0 530.0" version="1.1">
+<rect x="290.0" y="-10.0" width="440.0" height="530.0" fill="rgb(235,247,248)"/>
+<ellipse id="s1098472744" cx="490.0" cy="310.0" rx="80.00001" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1098472744">
+<text x="451.5" y="304.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Choisir Type </text>
+<text x="462.5" y="323.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">d'activité </text>
+</g>
+<ellipse id="s1097971024" cx="490.0" cy="150.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1097971024">
+<text x="468.0" y="144.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Choisir </text>
+<text x="475.0" y="163.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Mois </text>
+</g>
+<ellipse id="s1101929272" cx="370.0" cy="450.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1101929272">
+<text x="344.0" y="444.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Planifier </text>
+<text x="347.5" y="463.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Activité </text>
+</g>
+<ellipse id="s1101009672" cx="610.0" cy="450.0" rx="90.0" ry="40.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1101009672">
+<text x="558.0" y="444.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Calculer Nombre </text>
+<text x="559.0" y="463.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">contact potentiel </text>
+</g>
+<ellipse id="s1097791224" cx="490.0" cy="50.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1097791224">
+<text x="476.0" y="53.5" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">CU 7 </text>
+</g>
+<ellipse id="s1102440408" cx="490.0" cy="230.0" rx="50.0" ry="30.0" fill="rgb(229,255,255)" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+<g id="t1102440408">
+<text x="473.0" y="224.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Lister </text>
+<text x="467.5" y="243.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14">Activité </text>
+</g>
+<g id="la1099150864">
+<path id="s1099150864" d="M 490.0,260.0 490.0,280.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="t1099150864">
+<text x="490.5" y="270.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14"> </text>
+</g>
+<g id="la1098423672">
+<path id="s1098423672" d="M 433.43146,331.2132 389.1342,422.28363 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="t1098423672">
+<text x="411.7828" y="376.7484" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14"> </text>
+</g>
+<g id="la1099442008">
+<path id="s1099442008" d="M 546.56854,331.2132 610.0,410.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="t1099442008">
+<text x="578.7843" y="370.6066" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14"> </text>
+</g>
+<g id="la1100106072">
+<path id="s1100106072" d="M 490.0,80.0 490.0,120.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="t1100106072">
+<text x="490.5" y="100.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14"> </text>
+</g>
+<g id="la1100097224">
+<path id="s1100097224" d="M 490.0,180.0 490.0,200.0 " fill="none" stroke-width="2.0" stroke="rgb(136,171,194)"/>
+</g>
+<g id="t1100097224">
+<text x="490.5" y="190.0" font-family="sans-serif" fill="rgb(73,112,138)" font-size="14"> </text>
+</g>
+</svg>

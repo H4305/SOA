@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720.0" height="680.0" viewBox="170.0 90.0 720.0 680.0" version="1.1">
+<rect x="170.0" y="90.0" width="720.0" height="680.0" fill="rgb(255,255,255)"/>
+<g id="seq1097084624">
+<polygon id="s1097084624" points="200.0,120.0 300.0,120.0 300.0,180.0 200.0,180.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1097275392" d="M 250.0,180.0 250.0,740.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)" stroke-dasharray="7.0 7.0"/>
+</g>
+<g id="t1097084624">
+<text x="228.0" y="155.0" font-family="sans-serif" font-weight="bold" fill="rgb(0,0,0)" font-size="16"> USER </text>
+</g>
+<g id="seq1097319272">
+<polygon id="s1097319272" points="500.0,120.0 600.0,120.0 600.0,180.0 500.0,180.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1099665152" d="M 550.0,180.0 550.0,740.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)" stroke-dasharray="7.0 7.0"/>
+</g>
+<g id="t1097319272">
+<text x="537.5" y="153.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">IHM </text>
+</g>
+<g id="seq1097386080">
+<polygon id="s1097386080" points="760.0,120.0 860.0,120.0 860.0,180.0 760.0,180.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1099667208" d="M 810.0,180.0 810.0,740.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)" stroke-dasharray="7.0 7.0"/>
+</g>
+<g id="t1097386080">
+<text x="784.0" y="153.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Systeme </text>
+</g>
+<g id="la1099815352">
+<path id="s1099815352" d="M 250.0,220.0 550.0,220.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101817344" d="M 540.8219,227.7306 550.0,220.0 540.8219,212.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1099815352">
+<text x="348.5" y="210.49998" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Recherche Client </text>
+</g>
+<g id="la1099427832">
+<path id="s1099427832" d="M 550.0,240.0 810.0,240.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101818240" d="M 800.8219,247.7306 810.0,240.0 800.8219,232.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1099427832">
+<text x="561.0" y="211.49998" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">RechercherClientParNom(nomClient) : </text>
+<text x="644.0" y="230.49998" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">List&lt;Client&gt; </text>
+</g>
+<g id="la1099480424">
+<path id="s1099480424" d="M 250.0,320.0 550.0,320.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101819136" d="M 540.8219,327.73062 550.0,320.0 540.8219,312.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1099480424">
+<text x="327.0" y="310.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Identifier Client (cf CU4) </text>
+</g>
+<g id="la1097083600">
+<path id="s1097083600" d="M 250.0,380.0 550.0,380.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101820032" d="M 540.8219,387.73062 550.0,380.0 540.8219,372.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1097083600">
+<text x="326.5" y="370.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Consulter compte rendu </text>
+</g>
+<g id="la1097262688">
+<path id="s1097262688" d="M 550.0,400.0 810.0,400.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101820928" d="M 800.8219,407.73062 810.0,400.0 800.8219,392.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1097262688">
+<text x="560.5" y="371.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">getCompteRenduPreparation(contact)  </text>
+<text x="633.0" y="390.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">: CompteRendu </text>
+</g>
+<g id="la1099770776">
+<path id="s1099770776" d="M 250.0,440.0 550.0,440.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101821824" d="M 540.8219,447.73062 550.0,440.0 540.8219,432.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1099770776">
+<text x="333.0" y="430.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Modifier Informations </text>
+</g>
+<g id="la1101027680">
+<path id="s1101027680" d="M 550.0,460.0 810.0,460.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101822720" d="M 800.8219,467.73062 810.0,460.0 800.8219,452.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1101027680">
+<text x="562.5" y="450.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">modifierCompteRendu(compteRendu) </text>
+</g>
+<g id="la1098009784">
+<path id="s1098009784" d="M 250.0,640.0 550.0,640.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101823616" d="M 540.8219,647.7306 550.0,640.0 540.8219,632.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1098009784">
+<text x="322.5" y="630.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Generer rapport d'activité </text>
+</g>
+<g id="la1100022584">
+<path id="s1100022584" d="M 550.0,700.0 810.0,700.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101824512" d="M 800.8219,707.7306 810.0,700.0 800.8219,692.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1100022584">
+<text x="580.5" y="671.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">genererRapport(compteRendu) : </text>
+<text x="655.5" y="690.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Rapport </text>
+</g>
+<g id="la1098014528">
+<path id="s1098014528" d="M 250.0,500.0 550.0,500.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101825408" d="M 540.8219,507.73062 550.0,500.0 540.8219,492.26938 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1098014528">
+<text x="346.5" y="490.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Faire Proposition </text>
+</g>
+<g id="la1099655192">
+<path id="s1099655192" d="M 550.0,540.0 810.0,540.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101826304" d="M 800.8219,547.7306 810.0,540.0 800.8219,532.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1099655192">
+<text x="588.0" y="530.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">propositionFaite(proposition) </text>
+</g>
+<g id="la1098408112">
+<path id="s1098408112" d="M 250.0,580.0 550.0,580.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101827200" d="M 540.8219,587.7306 550.0,580.0 540.8219,572.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1098408112">
+<text x="340.0" y="570.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">Valider Proposition </text>
+</g>
+<g id="la1100013848">
+<path id="s1100013848" d="M 550.0,620.0 810.0,620.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s1101828096" d="M 800.8219,627.7306 810.0,620.0 800.8219,612.2694 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+</g>
+<g id="t1100013848">
+<text x="575.5" y="610.5" font-family="sans-serif" fill="rgb(0,0,0)" font-size="14">propositionAcceptee(proposition) </text>
+</g>
+</svg>
